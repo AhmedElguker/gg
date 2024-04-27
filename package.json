@@ -1,0 +1,69 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+{
+  "name": "giveaway-bot",
+  "version": "1.2.0",
+  "description": "Very simple giveaway bot made with discord.js",
+  "main": "index.js",
+  "author": "fent",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fent/giveaway-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fent/giveaway-bot/issues"
+  },
+  "homepage": "https://github.com/fent/giveaway-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1"
+  }
+}
+=======
+{
+  "name": "discord-giveaway-bot",
+  "version": "2.2.1",
+  "description": "Very simple giveaway bot made with discord.js and discord-giveaways",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arktn/discord-giveaway-bot"
+  },
+  "author": "https://github.com/arktn",
+  "license": "MIT",
+  "dependencies": {
+    "discord-giveaways": "^4.4.3",
+    "discord.js": "^12.5.3",
+    "ms": "^2.1.2"
+  }
+}
+>>>>>>> f060ad6848b5a1033f9aca4fb99a05785ed44f77
+=======
+{
+  "name": "discord-giveaway-bot",
+  "version": "2.2.1",
+  "description": "Very simple giveaway bot made with discord.js and discord-giveaways",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arktn/discord-giveaway-bot"
+  },
+  "author": "https://github.com/arktn",
+  "license": "MIT",
+  "dependencies": {
+    "discord-giveaways": "^4.4.3",
+    "discord.js": "^12.5.3",
+    "ms": "^2.1.2"
+  }
+}
+>>>>>>> f060ad6848b5a1033f9aca4fb99a05785ed44f77

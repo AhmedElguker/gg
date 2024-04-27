@@ -1,0 +1,40 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+{
+	"prefix": "!",
+	"token": ""
+=======
+{
+    "Bot_Info": {
+        "token": "",
+        "prefix": ""
+    },
+   "Embed_Defaults": {
+       "EmbedColour": "RANDOM"
+   },
+   "Giveaway_Options": {
+    "giveawayManagerID": "",
+    "giveawayRoleID": "",
+    "giveawayMention": true,
+    "showMention": true,
+    "hostedBy": true
+    }
+>>>>>>> f060ad6848b5a1033f9aca4fb99a05785ed44f77
+=======
+{
+    "Bot_Info": {
+        "token": "",
+        "prefix": ""
+    },
+   "Embed_Defaults": {
+       "EmbedColour": "RANDOM"
+   },
+   "Giveaway_Options": {
+    "giveawayManagerID": "",
+    "giveawayRoleID": "",
+    "giveawayMention": true,
+    "showMention": true,
+    "hostedBy": true
+    }
+>>>>>>> f060ad6848b5a1033f9aca4fb99a05785ed44f77
+}
